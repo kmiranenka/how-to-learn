@@ -1,0 +1,28 @@
+.resources__logo{
+  width: 270px;
+  height: 38px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.resources__logo:hover{
+  opacity: 0.6;
+  transition: opacity 0.5s linear;
+}
+
+.resources__logo:first-child{
+  background-image: url(../../../images/resources-arzamas.svg);
+}
+
+.resources__logo:nth-child(2){
+  background-image: url(../../../images/resources-n1.svg);
+}
+
+.resources__logo:nth-child(3){
+  background-image: url(../../../images/resources-strelka.svg);
+}
+
+.resources__logo:nth-child(4){
+  background-image: url(../../../images/resources-polka.svg);
+}
