@@ -10,19 +10,3 @@
   opacity: 0.6;
   transition: opacity 0.5s linear;
 }
-
-.resources__logo:first-child{
-  background-image: url(../../../images/resources-arzamas.svg);
-}
-
-.resources__logo:nth-child(2){
-  background-image: url(../../../images/resources-n1.svg);
-}
-
-.resources__logo:nth-child(3){
-  background-image: url(../../../images/resources-strelka.svg);
-}
-
-.resources__logo:nth-child(4){
-  background-image: url(../../../images/resources-polka.svg);
-}
